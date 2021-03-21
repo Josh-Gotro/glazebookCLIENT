@@ -6,7 +6,7 @@ const AppStyle = styled.div`
 `
 
 const AppHeader = styled.header`
-  background-color: #282c34;
+  background-color: rgb(197, 197, 166);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
